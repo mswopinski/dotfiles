@@ -1,0 +1,4 @@
+[python]
+detect_extensions = ["py"]
+detect_files = ["requirements.txt", "pyproject.toml", "setup.py", "setup.cfg", "Pipfile", ".python-version"]
+detect_folders = [".venv", "venv"]
