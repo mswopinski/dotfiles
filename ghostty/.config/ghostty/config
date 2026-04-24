@@ -1,0 +1,8 @@
+working-directory = home
+theme = Catppuccin Macchiato
+font-family = JetBrainsMonoNL Nerd Font Mono
+font-size = 15
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor,sudo,title
+keybind = ctrl+j=text:\n
